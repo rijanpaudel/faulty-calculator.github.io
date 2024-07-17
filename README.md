@@ -1,0 +1,2 @@
+# faulty-calculator.github.io
+This is the simple project made from html and css in which simple calculation is performed but the trick is that the calculation is wrong 10% of the times. In which 10% of the times plus button does subtraction, subtract button does division, multiply button does addition and division button does power.
